@@ -1,0 +1,17 @@
+*.bak
+*.xml
+*.pdf
+*.bck
+*.raw
+*.log
+*.dcm
+*.pch
+*.kicad_pcb-bak
+*_i.c
+*autosave*
+*cache*
+*/Plot
+*.mcr
+*.csv
+*.xlsx
+/Plot
